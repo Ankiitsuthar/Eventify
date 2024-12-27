@@ -47,7 +47,7 @@ Event planning can be stressful and time-consuming due to:
 ## Installation 🛠️
 1. **Clone the Repository**:
 ```
-git clone https://github.com/username/eventify.git
+git clone https://github.com/Ankiitsuthar/Eventify.git
 ```
 2. **Install Dependencies**:
 ```
