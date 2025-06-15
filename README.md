@@ -30,7 +30,7 @@ Event planning can be stressful and time-consuming due to:
 - **Authentication**: Using JWT and bcrypt for security.
 
 ### **Database:**
-- **PostgreSQL**: Relational database for structured data.
+- **MongoDB**:Non-Relational(Document) database for data.
 - **Schema**:
   - Users: user_id, name, email, role, password.
   - Vendors: vendor_id, name, category, pricing, availability.
@@ -71,7 +71,7 @@ Deploy the frontend using **Vercel** and the backend using **Heroku** or **AWS E
 - **Vercel**: Hosting frontend.
 - **AWS RDS/Heroku**: Database hosting.
 - **Node.js & npm**: Development environment.
-- **PostgreSQL**: Database management.
+- **MongoDB**: Database management.
 
 ## Future Enhancements 🛠️
 - Integration with event venues and transportation services.
@@ -79,7 +79,7 @@ Deploy the frontend using **Vercel** and the backend using **Heroku** or **AWS E
 - Mobile app development.
 
 ## Acknowledgments 🙌
-Special thanks to the development team, beta testers, and early adopters who helped shape this platform.
+Special thanks to the friends who helped shape this platform.
 
 ---
 
